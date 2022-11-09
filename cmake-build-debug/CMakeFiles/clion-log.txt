@@ -1,0 +1,4 @@
+/home/sandor/Documents/clion-2022.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/sandor/Documents/clion-2022.2.3/bin/ninja/linux/ninja -G Ninja -S /home/sandor/CLionProjects/cinsky -B /home/sandor/CLionProjects/cinsky/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sandor/CLionProjects/cinsky/cmake-build-debug

@@ -1,3 +1,3 @@
-/home/sandor/CLionProjects/cinsky/cmake-build-debug/CMakeFiles/cinsky.dir
-/home/sandor/CLionProjects/cinsky/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sandor/CLionProjects/cinsky/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sandor/Documents/GreenFox/cinsky/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sandor/Documents/GreenFox/cinsky/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sandor/Documents/GreenFox/cinsky/cmake-build-debug/CMakeFiles/cinsky.dir
